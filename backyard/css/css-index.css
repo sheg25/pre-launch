@@ -14,7 +14,7 @@ body {
 	font-weight: 300;
 	padding:0;
 	margin:0;
-	font-size:16px;
+	font-size:22px;
 	line-height: 28px;
 	color: #777; 
 	background: #fff;
@@ -159,7 +159,7 @@ a:hover {
 .logo {
 	margin: 100px 0 40px 0;
 	font-size: 35px;
-	font-family: Short Stack;
+	font-family: "Lato", "Serif";
 }
 .logo img{
 	width: 150px; 
