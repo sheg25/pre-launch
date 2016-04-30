@@ -15,7 +15,7 @@ body {
 	padding:0;
 	margin:0;
 	font-size:22px;
-	line-height: 28px;
+	line-height: 35px;
 	color: #777; 
 	background: #fff;
 	overflow-x:hidden;
@@ -177,9 +177,10 @@ a:hover {
 }
 .landing-text {
 	margin-bottom: 20px;
+	margin-right: 12%;
 }
 .landing-text p {
-	font-size: 26px !important; 
+	font-size: 30px !important; 
 }
 .head-btn {
 	margin-bottom: 150px;
